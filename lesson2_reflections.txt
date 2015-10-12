@@ -14,3 +14,11 @@ git commit
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 different versions, language, testing alernate versions.
+
+How do the diagrams help you visualize the branch structure?
+shows parents and reachability and unrecheable branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It commits all the changes done one branch to the other, ading lines that were not in the original to the merged file. Because it shows the parents and what commits are reachable.
+

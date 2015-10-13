@@ -5,3 +5,10 @@ When you have other contributors or are using different computers
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 You only want pull changes after you review them
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork = clone from a GitHub repo to another - used to add or modify someone's repo in your own remote
+clone = a copy of a repo to another location - used to get a local copy of someone's repo
+branch = a branch in the selected repo - use when adding features that you dont want to commit to master branch
+

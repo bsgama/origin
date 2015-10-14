@@ -19,3 +19,7 @@ You can work offline on changes to last known state
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Keeping file names different from other users, but it would be hard to track changes
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+easier on master, but not good for contributions
